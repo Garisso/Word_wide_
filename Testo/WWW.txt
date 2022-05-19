@@ -1,0 +1,86 @@
+- Scopo iniziale dell'uso di internet
+- La venuta del WWW-WEB(locale --> remoto con internet)
+- parallelo con pc utente e server remoto
+- codice
+- broseser
+- futuro
+- about us
+- footer info
+
+ 
+
+
+
+
+
+
+Libro:
+The world wide web is basically the
+work of a single man, Tim Berners
+Lee, a computer scientist born in
+London in 1955.
+It all started in 1980 when
+Berners-Lce was working as a
+software engineer at CERN, the
+European Laboratory for Particle
+Physics, in Geneva. He wrote a
+simple program called Enquire
+to help him remember the connections among the
+various people, computers, and projects at the lab. He
+could type in a page of information about a person, a
+device, or a program and each page became a 'node
+in the program, a little like an index card. Enquire
+developed into a kind of 'hypertext notebook. Words
+in one document could be "linked to other files on
+his computer; he could follow a link by typing in a
+number (there was no mouse to click back then) and
+automatically pull up the related document.
+It worked well on his own computer. But what if
+he wanted to add things that were on someone
+else's computer? First he would need that person's
+permission, and then he would have to do the tedious
+work of adding the new material to a central database.
+He realised that it would be much easier if he, and all
+his colleagues, simply opened up their documents-
+and their computers- to each other and allowed all
+the material to be interlinked. Access could be limited
+to the people working at CERN, but why stop there?
+Why not open it up to scientists everywhere? This
+was a revolutionary idea. 'Suppose all the information
+stored on computers everywhere were linked... Suppose
+I could program my computer to
+create a space in which anything
+could be linked to anything. All the
+bits of information in every computer
+at CERN, and on the planet, would
+be available to me and to anyone
+else. There would be a single, global
+information space. In Berners-Lee's
+scheme there would be no central
+manager, no central database. The
+thing could grow like the Internet itself, open-ended
+and infinite. It could spread like a spider's web.
+In order to be able to do this, he put together a relatively
+easy-to-learn coding system-HTML (Hyper Text
+Mark-up Language)- that has become the lingua
+franca of the web. 'This is how website creators put
+those little underlined links in their text, add images
+and so on. He designed an addressing scheme that gave
+each web page a unique location, or URL (Universal
+Resource Locator). And he established a set of rules
+that permitted these documents to be linked together
+on computers across the Internet: HTTP (HyperText
+Transfer Protocol). Finally he designed the web's first
+browser which allowed users anywhere to view and
+navigate around his creation on their computer screens.
+When the world wide web appeared in 1991, it brought
+order and clarity to the chaos of cyberspace. From that
+moment on, the web and the Internet grew almost as
+a single entity. Within five years the number of users
+jumped from 600,000 to 40 million. The impact of the
+global system he created has been enormous. He took
+a powerful communications system that only the elite
+could use and turned it into a mass medium.
+He
+, a
+ds
